@@ -1,2 +1,2 @@
-# inkscape-material-design
+# Material Design Mockup
 Simple material design SVG mockup template made with Inkscape 
